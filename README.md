@@ -6,11 +6,19 @@ This is the simple facebook login and register clone page developed using django
 
 ### How to use it?
 
-Before diving into this you must have a python3 installed in your system.
+Before diving into this you must have a python3 installed in your system. If you want to bring it to the internet you must have ngrok installed in the system.
 
 Step 1: Download `requirements.txt` file.
 
 `pip install -r requirements.txt`
+
+Step 2: Run `manage.py` file in the local server.
+
+`python3 manage.py runserver 8000`
+
+Step 3: Run ngrok in the port 8000.
+
+`ngrok http 8000`
 
 Desktop view:
 
