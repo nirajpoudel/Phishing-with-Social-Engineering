@@ -10,7 +10,7 @@ Before diving into this you must have a <a href="https://www.python.org/">python
 
 Step 1: Clone the repository.
 
-``
+`git clone https://github.com/nirajpoudel18/Phishing-with-Social-Engineering.git`
 
 Step 2: Download `requirements.txt` file.
 
