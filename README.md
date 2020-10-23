@@ -20,11 +20,13 @@ Step 3: Run ngrok in the port 8000.
 
 `ngrok http 8000`
 
-Desktop view:
+### Desktop view:
 
 <img src = "https://i0.wp.com/ihowtologin.com/wp-content/uploads/2018/09/how-to-change-facebook-login-email.png?w=700&ssl=1">
 
 
-Mobile view:
+### Mobile view:
 
 <img src="https://lh4.googleusercontent.com/proxy/im1QWHbBYnTPAdb8BfT7gEkAJS-QDvDSn3tR5jmnnwTdMvMBBkdVTxMLAZVkRobg9oC9rHwokoe5vtA-jrRbEoPmHRVrK6GQw8Mp9Wd3CemRIDNpRY9hXpZlnluvimlQckhlKfk7rw=s0-d" height="500" width ="300">
+
+Only the login form is connect with database for now. Further update will be available in the later future.
