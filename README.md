@@ -2,7 +2,13 @@
 
 ### Note: `This is just for educational purpose only. `
 
-This is the simple facebook login and register clone page developed using django. 
+This is the simple facebook login and register clone page developed using django. The intention of this project is to explore tools and learn new skills. It is not developed to harm anyone. The facebook login form is developed with html and css and backend used for this project is python and django. Sqlite is used as a databse.
+
+### How to use it?
+
+Before diving into this you must have a python3 installed in your system.
+Step 1: Download `requirements.txt`
+`pip install -r requirements.txt`
 
 Desktop view:
 
