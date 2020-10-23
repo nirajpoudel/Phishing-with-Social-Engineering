@@ -7,6 +7,7 @@ This is the simple facebook login and register clone page developed using django
 ### How to use it?
 
 Before diving into this you must have a python3 installed in your system.
+
 Step 1: Download `requirements.txt` file.
 
 `pip install -r requirements.txt`
