@@ -11,4 +11,4 @@ Desktop view:
 
 Mobile view:
 
-<img src="https://lh4.googleusercontent.com/proxy/im1QWHbBYnTPAdb8BfT7gEkAJS-QDvDSn3tR5jmnnwTdMvMBBkdVTxMLAZVkRobg9oC9rHwokoe5vtA-jrRbEoPmHRVrK6GQw8Mp9Wd3CemRIDNpRY9hXpZlnluvimlQckhlKfk7rw=s0-d">
+<img src="https://lh4.googleusercontent.com/proxy/im1QWHbBYnTPAdb8BfT7gEkAJS-QDvDSn3tR5jmnnwTdMvMBBkdVTxMLAZVkRobg9oC9rHwokoe5vtA-jrRbEoPmHRVrK6GQw8Mp9Wd3CemRIDNpRY9hXpZlnluvimlQckhlKfk7rw=s0-d" height="500" width ="300">
