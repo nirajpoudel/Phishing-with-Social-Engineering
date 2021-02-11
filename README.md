@@ -33,7 +33,7 @@ Step 4: Run ngrok in the port 8000.
 
 ### Mobile view:
 
-<img src="https://lh4.googleusercontent.com/proxy/im1QWHbBYnTPAdb8BfT7gEkAJS-QDvDSn3tR5jmnnwTdMvMBBkdVTxMLAZVkRobg9oC9rHwokoe5vtA-jrRbEoPmHRVrK6GQw8Mp9Wd3CemRIDNpRY9hXpZlnluvimlQckhlKfk7rw=s0-d" height="500" width ="300">
+<img src="https://www.tutorialspoint.com/ionic/images/ionic-cordova-facebook.jpg" height="500" width ="300">
 
 Only the login form is connect with database for now. Further update will be available in the later future. The free version of ngrok doesnot provide the domain customization. If you want to customize domain you can register free domains at <a href="https://www.freenom.com/">Freenom</a>.
 
