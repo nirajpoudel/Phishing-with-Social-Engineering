@@ -28,7 +28,7 @@ Step 4: Run ngrok in the port 8000.
 
 ### Desktop view:
 
-<img src = "https://i0.wp.com/ihowtologin.com/wp-content/uploads/2018/09/how-to-change-facebook-login-email.png?w=700&ssl=1">
+<img src = "https://i.insider.com/5ca4c7c26b52653856390174?width=1200&format=jpeg">
 
 
 ### Mobile view:
